@@ -2,3 +2,5 @@
 192.168.24.188 lxsr.isc.cal.com
 192.168.24.254 gateway
 192.168.24.1   subnet
+1.1.1.1        dns1
+8.8.8.8        dns2
